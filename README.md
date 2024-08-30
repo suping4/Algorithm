@@ -1,4 +1,3 @@
-# JUNGOL
-정올 문제풀이
+# Algorithm
 
-jungol.co.kr
+## 알고리즘 문제풀이
